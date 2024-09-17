@@ -1,4 +1,6 @@
-# S.O.L.I.D. Principles: 5 Notes
+# S.O.L.I.D. Principles: Notes
+
+**[Back to README.md](/README.md)**
 
 ## What are SOLID Design Principles?
 
