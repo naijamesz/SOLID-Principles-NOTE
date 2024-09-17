@@ -3,7 +3,7 @@
 **[TH Section](#Introduction-TH-version)**
 <br>
 
-**[README-Thai](./README-TH)**
+**[README-Thai](/README-TH)**
 
 # Introduction EN version
 
@@ -284,7 +284,7 @@ class UserService {
 **[EN Section](#Introduction-EN-version)**
 <br>
 
-**[README-EN](./README-EN)**
+**[README-EN](/README-EN)**
 
 
 # Introduction TH version
